@@ -3,4 +3,5 @@ uvicorn
 python-dotenv
 pandas
 openpyxl
+google-generativeai
 openai
